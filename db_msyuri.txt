@@ -1,0 +1,6 @@
+koneksi DB
+-----------
+HOST : 139.59.226.31
+user : cendana
+pass : cendananr2425
+DBNM : cendana_nama_project
